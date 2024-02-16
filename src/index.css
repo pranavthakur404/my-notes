@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+.header {
+  width: 100%;
+  padding: 2% 1%;
+  text-align: center;
+  background: yellow;
+  font-weight: 800;
+}
+
+.Acc-container {
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 3%;
+}
+
+.accordion {
+  width: 100%;
+}
+
+.accordion form {
+  padding: 15px 0px;
+  font-size: 1.3rem;
+}
+
+.card {
+  width: 100%;
+}
+
+.title {
+  width: 100%;
+  padding: 3%;
+  background: grey;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  padding: 20px 10px;
+}
